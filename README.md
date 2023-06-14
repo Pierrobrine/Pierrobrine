@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pierre
-- 👀 I’m interested in coding, video games, anime and music
-- 🌱 I’m currently learning C++, C#, HTML, CSS, JS and other langages at CESI and on my free time
+- 👀 I’m interested in video games, asian culture and music
+- 🌱 I’m currently learning C++, C#, HTML, CSS, JS and other langages at the CESI engineering school and on my free time
 - 📫 You can reach me at pierre.martin.xv@gmail.com
 
 <!---
